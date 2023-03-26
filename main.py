@@ -1,7 +1,5 @@
 from cpf import Cpf
 
-cpf = 14748858028
-
-documento1 = Cpf(cpf)
-
-print(documento1)
+cpf_gabriel = Cpf("15904767005")
+#Testando a Validação
+print(cpf_gabriel)
